@@ -48,6 +48,34 @@ p span{
     color: #e903b7;
 }
 
+
+
+
+
+
+h4 span{
+    color: #a803e9;
+}
+
+.download-text {
+    font-size: 1rem;
+    margin-top: -15px; 
+    margin-bottom: 25px; 
+}
+
+.download-text a {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+
+
+
+
+
+
+
 .skill-content{
     margin: 1rem 0 2rem 0;
     font-family: Poppins;
@@ -134,6 +162,7 @@ footer a i {
         padding: 0 2rem 0 2rem;
     }
 
+
     footer p{
         font-size: .7rem;
     }
@@ -200,3 +229,4 @@ footer a i {
 .prev:hover, .next:hover {
     background-color: rgba(0, 0, 0, 0.8);
 }
+
